@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "ieasd5lg",
+    "projectId": "nnf96k7t",
     "dataset": "production"
   },
   "project": {
-    "name": "HULL",
+    "name": "slidehouse",
     "basePath": "/studio"
   },
   "plugins": [
